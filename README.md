@@ -1,6 +1,10 @@
 # 42-piscine
 This is my september piscine at 42 lausanne. I've got accepted
 
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
 ## MY SCORES
 ### C Piscine modules
 - [C Piscine Shell 00](./SHELL00) (succeeded with 100%)
@@ -29,6 +33,10 @@ This is my september piscine at 42 lausanne. I've got accepted
 - C Piscine Exam 02 (failed with 14%)
 - C Piscine Final Exam (succeeded with 48%)
 
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
 ## USEFULS LINKS BY MODULES
 ### C YouTube Playlist from school
 Shell00 > https://www.youtube.com/playlist?list=PLVQYiy6xNUxxhvwi0PGmXb5isUdVwmsg8<br>
@@ -48,8 +56,16 @@ C11 > https://www.youtube.com/playlist?list=PLVQYiy6xNUxx8sKygTdqtOPytqN7sb0Vz<b
 C12 > https://www.youtube.com/playlist?list=PLVQYiy6xNUxwmUOmyYSaI6gD1UyfF9MSj<br>
 C13 > https://www.youtube.com/playlist?list=PLVQYiy6xNUxzusAgMiybYwkLvuMFbVat9<br>
 
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
 ## NOTES
 @Diabolo257 obsidian note > https://github.com/diabolo257/Obsidian
+
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
 
 ## TODO
 - [x] Upload modules to github
@@ -60,4 +76,8 @@ C13 > https://www.youtube.com/playlist?list=PLVQYiy6xNUxzusAgMiybYwkLvuMFbVat9<b
 - [x] Drink cofee(s) ☕
 - [ ] Complete everything to 100% 🎉
 
-This modules was done by [rphlr](https://rphlr.ch)
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
+This module was done by [rphlr](https://rphlr.ch).
