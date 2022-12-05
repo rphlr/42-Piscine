@@ -7,31 +7,56 @@ This is my september piscine at 42 lausanne. I've got accepted
 
 ## MY SCORES
 ### C Piscine modules
-- [C Piscine Shell 00](./SHELL00) (succeeded with 100%)
-- [C Piscine Shell 01](./SHELL01) (succeeded with 100%)
-- [C Piscine C 00](./C00) (succeeded with 100%)
-- [C Piscine C 01](./C01) (succeeded with 100%)
-- [C Piscine C 02](./C02) (succeeded with 85%)
-- [C Piscine C 03](./C03) (succeeded with 100%)
-- [C Piscine C 04](./C04) (succeeded with 100%)
-- [C Piscine C 05](./C05) (succeeded with 80%)
-- [C Piscine C 06](./C06) (succeeded with 100%)
-- [C Piscine C 07](./C07) (succeeded with 60%)
-- [C Piscine C 08](./C08) (succeeded with 100%)
-- [C Piscine C 09](./C09) (succeeded with 100%)
-- [C Piscine C 10](./C10) (not returned)
-- [C Piscine C 11](./C11) (succeeded with 100%)
-- [C Piscine C 12](./C12) (not returned)
-- [C Piscine C 13](./C13) (not returned)
+
+<div align="center">
+
+| Project                                                   | Started            | Finished ?         | Final mark | Comments     |
+| --------------------------------------------------------- | ------------------ | ------------------ | ---------- | ------------ |
+| [SHELL00](https://github.com/rphlr/42piscine-shell00/)    | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
+| [SHELL01](https://github.com/rphlr/42piscine-shell01)     | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
+| [C00](https://github.com/rphlr/42piscine-C00)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
+| [C01](https://github.com/rphlr/42piscine-C01)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
+| [C02](https://github.com/rphlr/42piscine-C02)             | :white_check_mark: | :white_check_mark: |  85/100    | succeeded    |
+| [C03](https://github.com/rphlr/42piscine-C03)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
+| [C04](https://github.com/rphlr/42piscine-C04)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
+| [C05](https://github.com/rphlr/42piscine-C05)             | :white_check_mark: | :white_check_mark: |  80/100    | succeeded    |
+| [C06](https://github.com/rphlr/42piscine-C06)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
+| [C07](https://github.com/rphlr/42piscine-C07)             | :white_check_mark: | :white_check_mark: |  60/100    | succeeded    |
+| [C08](https://github.com/rphlr/42piscine-C08)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
+| [C09](https://github.com/rphlr/42piscine-C09)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
+| [C10](https://github.com/rphlr/42piscine-C10)             | :white_check_mark: | :x:                |  ../100    | not returned |
+| [C11](https://github.com/rphlr/42piscine-C11)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
+| [C12](https://github.com/rphlr/42piscine-C12)             | :x:                | :x:                |  ../100    | not returned |
+| [C13](https://github.com/rphlr/42piscine-C13)             | :x:                | :x:                |  ../100    | not returned |
+
+</div>
+
 ### C Piscine rushes
-- [C Piscine Rush 00](./RUSH00) (failed with 58%)
-- [C Piscine Rush 01](./RUSH01) (failed with 0%)
-- [C Piscine Rush 02](./RUSH02) (failed with 0%)
+
+<div align="center">
+
+| Project                                                   | Started            | Finished ?         | Final mark | Comments     |
+| --------------------------------------------------------- | ------------------ | ------------------ | ---------- | ------------ |
+| [RUSH00](https://github.com/rphlr/42piscine-rush00/)      | :white_check_mark: | :white_check_mark: |  58/100    | failed       |
+| [RUSH01](https://github.com/rphlr/42piscine-rush01/)      | :white_check_mark: | :white_check_mark: |   0/100    | failed       |
+| [RUSH02](https://github.com/rphlr/42piscine-rush02/)      | :white_check_mark: | :white_check_mark: |   0/100    | failed       |
+| [BSQ](https://github.com/rphlr/42piscine-bsq/)            | :x:                | :x:                |  ../100    | not returned |
+
+</div>
+
 ### C Piscine exams
-- C Piscine Exam 00 (succeeded with 64%)
-- C Piscine Exam 01 (succeeded with 48%)
-- C Piscine Exam 02 (failed with 14%)
-- C Piscine Final Exam (succeeded with 48%)
+
+<div align="center">
+
+| Project                                                   | Started            | Finished ?         | Final mark | Comments    |
+| --------------------------------------------------------- | ------------------ | ------------------ | ---------- | ----------- |
+| [EXAM00](https://github.com/rphlr/42piscine-exam03/)      | :white_check_mark: | :white_check_mark: |  64/100    | succeeded   |
+| [EXAM01](https://github.com/rphlr/42piscine-exam03/)      | :white_check_mark: | :white_check_mark: |  48/100    | succeeded   |
+| [EXAM02](https://github.com/rphlr/42piscine-exam03/)      | :white_check_mark: | :white_check_mark: |  14/100    | failed      |
+| [EXAM03](https://github.com/rphlr/42piscine-exam03/)      | :white_check_mark: | :white_check_mark: |  48/100    | succeeded   |
+
+</div>
+
 
 <div align="center" style="text-align:center">
 	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
