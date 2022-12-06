@@ -1,57 +1,57 @@
-[submodule "SHELL00"]
-	path = SHELL00
+[submodule "subfolder/SHELL00"]
+	path = subfolder/SHELL00
 	url = git@github.com:rphlr/42piscine-shell00.git
-[submodule "SHELL01"]
-	path = SHELL01
+[submodule "subfolder/SHELL01"]
+	path = subfolder/SHELL01
 	url = git@github.com:rphlr/42piscine-shell01.git
-[submodule "C00"]
-	path = C00
+[submodule "subfolder/C00"]
+	path = subfolder/C00
 	url = git@github.com:rphlr/42piscine-c00.git
-[submodule "C01"]
-	path = C01
+[submodule "subfolder/C01"]
+	path = subfolder/C01
 	url = git@github.com:rphlr/42piscine-c01.git
-[submodule "C02"]
-	path = C02
+[submodule "subfolder/C02"]
+	path = subfolder/C02
 	url = git@github.com:rphlr/42piscine-c02.git
-[submodule "C03"]
-	path = C03
+[submodule "subfolder/C03"]
+	path = subfolder/C03
 	url = git@github.com:rphlr/42piscine-c03.git
-[submodule "C04"]
-	path = C04
+[submodule "subfolder/C04"]
+	path = subfolder/C04
 	url = git@github.com:rphlr/42piscine-c04.git
-[submodule "C05"]
-	path = C05
+[submodule "subfolder/C05"]
+	path = subfolder/C05
 	url = git@github.com:rphlr/42piscine-c05.git
-[submodule "C06"]
-	path = C06
+[submodule "subfolder/C06"]
+	path = subfolder/C06
 	url = git@github.com:rphlr/42piscine-c06.git
-[submodule "C07"]
-	path = C07
+[submodule "subfolder/C07"]
+	path = subfolder/C07
 	url = git@github.com:rphlr/42piscine-c07.git
-[submodule "C08"]
-	path = C08
+[submodule "subfolder/C08"]
+	path = subfolder/C08
 	url = git@github.com:rphlr/42piscine-c08.git
-[submodule "C09"]
-	path = C09
+[submodule "subfolder/C09"]
+	path = subfolder/C09
 	url = git@github.com:rphlr/42piscine-c09.git
-[submodule "C11"]
-	path = C11
+[submodule "subfolder/C11"]
+	path = subfolder/C11
 	url = git@github.com:rphlr/42piscine-c11.git
-[submodule "C10"]
-	path = C10
+[submodule "subfolder/C10"]
+	path = subfolder/C10
 	url = git@github.com:rphlr/42piscine-c10.git
-[submodule "C12"]
-	path = C12
+[submodule "subfolder/C12"]
+	path = subfolder/C12
 	url = git@github.com:rphlr/42piscine-c12.git
-[submodule "C13"]
-	path = C13
+[submodule "subfolder/C13"]
+	path = subfolder/C13
 	url = git@github.com:rphlr/42piscine-c13.git
-[submodule "RUSH00"]
-	path = RUSH00
+[submodule "subfolder/RUSH00"]
+	path = subfolder/RUSH00
 	url = git@github.com:rphlr/42piscine-rush00.git
-[submodule "RUSH01"]
-	path = RUSH01
+[submodule "subfolder/RUSH01"]
+	path = subfolder/RUSH01
 	url = git@github.com:rphlr/42piscine-rush01.git
-[submodule "RUSH02"]
-	path = RUSH02
+[submodule "subfolder/RUSH02"]
+	path = subfolder/RUSH02
 	url = git@github.com:rphlr/42piscine-rush02.git
