@@ -1,5 +1,11 @@
 # 42-piscine
-This is my september piscine at 42 lausanne. I've got accepted
+<p align="center">This is my september piscine at 42 lausanne. I've got accepted</p>
+
+<p align="center">
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/rphlr/42-piscine?color=green&logo=Codecademy&logoColor=green&style=flat-square">
+	<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rphlr/42-piscine?color=green&logo=github&logoColor=green&style=flat-square">
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rphlr/42-piscine?color=green&logo=github&logoColor=green&style=flat-square">
+</p>
 
 <div align="center" style="text-align:center">
 	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
@@ -10,24 +16,24 @@ This is my september piscine at 42 lausanne. I've got accepted
 
 <div align="center">
 
-| Project                                                   | Started            | Finished ?         | Final mark | Comments     |
-| --------------------------------------------------------- | ------------------ | ------------------ | ---------- | ------------ |
-| [SHELL00](https://github.com/rphlr/42piscine-shell00/)    | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
-| [SHELL01](https://github.com/rphlr/42piscine-shell01)     | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
-| [C00](https://github.com/rphlr/42piscine-c00)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
-| [C01](https://github.com/rphlr/42piscine-c01)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
-| [C02](https://github.com/rphlr/42piscine-c02)             | :white_check_mark: | :white_check_mark: |  85/100    | succeeded    |
-| [C03](https://github.com/rphlr/42piscine-c03)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
-| [C04](https://github.com/rphlr/42piscine-c04)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
-| [C05](https://github.com/rphlr/42piscine-c05)             | :white_check_mark: | :white_check_mark: |  80/100    | succeeded    |
-| [C06](https://github.com/rphlr/42piscine-c06)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
-| [C07](https://github.com/rphlr/42piscine-c07)             | :white_check_mark: | :white_check_mark: |  60/100    | succeeded    |
-| [C08](https://github.com/rphlr/42piscine-c08)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
-| [C09](https://github.com/rphlr/42piscine-c09)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
-| [C10](https://github.com/rphlr/42piscine-c10)             | :white_check_mark: | :x:                |  ../100    | not returned |
-| [C11](https://github.com/rphlr/42piscine-c11)             | :white_check_mark: | :white_check_mark: | 100/100    | succeeded    |
-| [C12](https://github.com/rphlr/42piscine-c12)             | :x:                | :x:                |  ../100    | not returned |
-| [C13](https://github.com/rphlr/42piscine-c13)             | :x:                | :x:                |  ../100    | not returned |
+| Project                                                   | Tried ? | Finished ? | Final mark |
+| --------------------------------------------------------- | ------- | ---------- | ---------- |
+| [SHELL00](https://github.com/rphlr/42piscine-shell00/)    | ✅      | ✅         | 💯          |
+| [SHELL01](https://github.com/rphlr/42piscine-shell01)     | ✅      | ✅         | 💯          |
+| [C00](https://github.com/rphlr/42piscine-c00)             | ✅      | ✅         | 💯          |
+| [C01](https://github.com/rphlr/42piscine-c01)             | ✅      | ✅         | 💯          |
+| [C02](https://github.com/rphlr/42piscine-c02)             | ✅      | ✅         |  85/100    |
+| [C03](https://github.com/rphlr/42piscine-c03)             | ✅      | ✅         | 💯          |
+| [C04](https://github.com/rphlr/42piscine-c04)             | ✅      | ✅         | 💯          |
+| [C05](https://github.com/rphlr/42piscine-c05)             | ✅      | ✅         |  80/100    |
+| [C06](https://github.com/rphlr/42piscine-c06)             | ✅      | ✅         | 💯          |
+| [C07](https://github.com/rphlr/42piscine-c07)             | ✅      | ✅         |  60/100    |
+| [C08](https://github.com/rphlr/42piscine-c08)             | ✅      | ✅         | 💯          |
+| [C09](https://github.com/rphlr/42piscine-c09)             | ✅      | ✅         | 💯          |
+| [C10](https://github.com/rphlr/42piscine-c10)             | ✅      | ❌         |  ../100    |
+| [C11](https://github.com/rphlr/42piscine-c11)             | ✅      | ✅         | 💯          |
+| [C12](https://github.com/rphlr/42piscine-c12)             | ❌      | ❌         |  ../100    |
+| [C13](https://github.com/rphlr/42piscine-c13)             | ❌      | ❌         |  ../100    |
 
 </div>
 
@@ -35,12 +41,12 @@ This is my september piscine at 42 lausanne. I've got accepted
 
 <div align="center">
 
-| Project                                                   | Started            | Finished ?         | Final mark | Comments     |
-| --------------------------------------------------------- | ------------------ | ------------------ | ---------- | ------------ |
-| [RUSH00](https://github.com/rphlr/42piscine-rush00/)      | :white_check_mark: | :white_check_mark: |  58/100    | failed       |
-| [RUSH01](https://github.com/rphlr/42piscine-rush01/)      | :white_check_mark: | :white_check_mark: |   0/100    | failed       |
-| [RUSH02](https://github.com/rphlr/42piscine-rush02/)      | :white_check_mark: | :white_check_mark: |   0/100    | failed       |
-| [BSQ](https://github.com/rphlr/42piscine-bsq/)            | :x:                | :x:                |  ../100    | not returned |
+| Project                                              | Tried ? | Passed ? | Final mark | Comments  |
+| ---------------------------------------------------- | ------- | -------- | ---------- | --------- |
+| [RUSH00](https://github.com/rphlr/42piscine-rush00/) | ✅      | ❌       |  58/100    | failed    |
+| [RUSH01](https://github.com/rphlr/42piscine-rush01/) | ✅      | ❌       |   0/100    | failed    |
+| [RUSH02](https://github.com/rphlr/42piscine-rush02/) | ✅      | ❌       |   0/100    | failed    |
+| BSQ                                                  | ❌      | ❌       |  ../100    | not tried |
 
 </div>
 
@@ -48,12 +54,12 @@ This is my september piscine at 42 lausanne. I've got accepted
 
 <div align="center">
 
-| Project                                                   | Started            | Finished ?         | Final mark | Comments    |
-| --------------------------------------------------------- | ------------------ | ------------------ | ---------- | ----------- |
-| [EXAM00](https://github.com/rphlr/42piscine-exam03/)      | :white_check_mark: | :white_check_mark: |  64/100    | succeeded   |
-| [EXAM01](https://github.com/rphlr/42piscine-exam03/)      | :white_check_mark: | :white_check_mark: |  48/100    | succeeded   |
-| [EXAM02](https://github.com/rphlr/42piscine-exam03/)      | :white_check_mark: | :white_check_mark: |  14/100    | failed      |
-| [EXAM03](https://github.com/rphlr/42piscine-exam03/)      | :white_check_mark: | :white_check_mark: |  48/100    | succeeded   |
+| Project | Passed ? | Final mark |
+| ------- | -------- | ---------- |
+| EXAM00  | ✅       |  64/100    |
+| EXAM01  | ✅       |  48/100    |
+| EXAM02  | ❌       |  14/100    |
+| EXAM03  | ✅       |  48/100    |
 
 </div>
 
